@@ -1,8 +1,16 @@
 ### Initialization
 
-`npm install`
+```bash
+npm install
+```
+
+
 
 ### Testing
 
-`jest`
+```bash
+jest
+```
+
+
 
